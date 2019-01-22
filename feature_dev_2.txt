@@ -2,3 +2,5 @@ deleted all
 local
 
 local
+int b=20;
+b=b+2;

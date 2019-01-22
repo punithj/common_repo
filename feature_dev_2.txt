@@ -2,10 +2,7 @@ deleted all
 local
 
 local
-<<<<<<< HEAD
 int a=10;
 a=a+1;
-=======
 int b=20;
 b=b+2;
->>>>>>> 554cdee7e136564c4a2a36fd2fa7f098c5b33e9f

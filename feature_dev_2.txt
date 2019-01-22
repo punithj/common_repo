@@ -1,14 +1,1 @@
-new hello world
-Hello
-hello
-Hi
-Hi
-a
-a
-b
-d
-d
-d
-d
-this is mine
-this is mine
+deleted all
